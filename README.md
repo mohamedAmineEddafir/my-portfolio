@@ -1,2 +1,2 @@
 # my-portfolio
-login page with { HTML & CSS }
+project with { HTML, CSS and js}
